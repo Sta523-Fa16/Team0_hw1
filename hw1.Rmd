@@ -27,7 +27,7 @@ fizzbuzz function for various inputs
 No writeup is necessary for this section.
 -->
 
-```{r}
+```{r error=TRUE}
 fizzbuzz(1)
 fizzbuzz(3)
 fizzbuzz(5)
